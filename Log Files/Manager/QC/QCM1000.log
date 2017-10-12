@@ -1,0 +1,24 @@
+Oct 07, 2017 7:32:32 PM Logs.Log generateLogFileClient
+INFO: Deposit successful 
+Oct 07, 2017 7:32:32 PM Logs.Log generateLogFileClient
+INFO: Deposit failed 
+Oct 07, 2017 7:33:15 PM Logs.Log generateLogFileClient
+INFO: Balance check 
+Oct 08, 2017 6:16:28 PM Logs.Log generateLogFileClient
+INFO: Deposit successful 
+Oct 10, 2017 4:50:27 PM Logs.Log generateLogFileClient
+INFO: Withdraw success 
+Oct 10, 2017 4:50:48 PM Logs.Log generateLogFileClient
+INFO: Withdraw success 
+Oct 10, 2017 5:48:59 PM Logs.Log generateLogFileClient
+INFO: Account creation failed 
+Oct 10, 2017 5:49:10 PM Logs.Log generateLogFileClient
+INFO: Account creation failed 
+Oct 10, 2017 5:56:17 PM Logs.Log generateLogFileClient
+INFO: Get account count 
+Oct 10, 2017 5:56:52 PM Logs.Log generateLogFileClient
+INFO: Account created 
+Oct 10, 2017 5:57:09 PM Logs.Log generateLogFileClient
+INFO: Account created 
+Oct 10, 2017 5:57:13 PM Logs.Log generateLogFileClient
+INFO: Get account count 
